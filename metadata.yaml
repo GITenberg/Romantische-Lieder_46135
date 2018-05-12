@@ -1,0 +1,30 @@
+_repo: Romantische-Lieder_46135
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46135-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Hesse, Hermann
+    aliases:
+    - Lauscher, Hermann
+    - Sinclair, Emil
+    birthdate: 1877
+    deathdate: 1962
+    gutenberg_agent_id: '941'
+    url: http://www.gutenberg.org/2009/agents/941
+    wikipedia: http://en.wikipedia.org/wiki/Hermann_Hesse
+description: ''
+gutenberg_issued: '2014-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46135'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Poetry'
+title: Romantische Lieder
+url: http://www.gutenberg.org/ebooks/46135
